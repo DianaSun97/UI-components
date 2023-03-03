@@ -1,6 +1,6 @@
 {
-  "name": "material-cra",
-  "version": "5.0.0",
+  "name": "ui-components",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
